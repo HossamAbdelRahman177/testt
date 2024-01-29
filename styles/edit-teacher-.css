@@ -1,0 +1,1401 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+.fff{
+  background-color: transparent;
+  color: white;
+  border: 0;
+}
+.cf{
+
+  cursor: pointer;
+  color: white;
+  border: 0;
+  padding: 10px ;
+  background-color: #2e3192;
+  
+}
+.k{
+  outline: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.edit-teacher--nzw {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB {
+  box-sizing: border-box;
+  padding: 3.5rem 1.6rem 5rem 1.6rem;
+  width: 32.1rem;
+  height: 102.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/combined-shape-M4F.png');
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .educare-3-6-z5R {
+  margin: 0rem 3.949rem 7.6rem 0rem;
+  width: 17.551rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-198-tAo {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.2rem 12.5rem 0.6rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 245, 245, 0.1000000015);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-198-tAo .group-77-ooZ {
+  margin: 0.1rem 1.4rem 0rem 0rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-198-tAo .dashboard-XDm {
+  margin-bottom: 0.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-199-C51 {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.2rem 15.4rem 0.7rem 2rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 255, 255, 0.1000000015);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-199-C51 .group-78-Jdq {
+  margin-right: 1.4rem;
+  width: 2.6rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-199-C51 .group-78-Jdq .frame-209-r9Z {
+  box-sizing: border-box;
+  padding: 0.1rem 0.204rem 0.1rem 0.2rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-199-C51 .group-78-Jdq .frame-209-r9Z .graduated3135773-1-nJ7 {
+  width: 2.1965rem;
+  height: 2.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-199-C51 .student-6Jo {
+  margin-bottom: 0.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-200-zf5 {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.2rem 14.9rem 0.7rem 2rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 245, 245, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-200-zf5 .group-79-un3 {
+  margin-right: 1.4rem;
+  width: 2.6rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-200-zf5 .group-79-un3 .frame-210-eUj {
+  box-sizing: border-box;
+  padding: 0.1rem 0.204rem 0.1rem 0.2rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-200-zf5 .group-79-un3 .frame-210-eUj .teacher10455354-1-naw {
+  width: 2.1965rem;
+  height: 2.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-200-zf5 .teacher-tts {
+  margin-bottom: 0.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-427319903-oW3 {
+  margin-bottom: 2.2rem;
+  box-sizing: border-box;
+  padding: 1.1rem 15.7rem 1rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 245, 245, 0.1000000015);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-427319903-oW3 .group-83-82X {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-427319903-oW3 .group-83-82X .frame-216-3fH {
+  box-sizing: border-box;
+  padding: 0.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-427319903-oW3 .group-83-82X .frame-216-3fH .people11405357-1-bgo {
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-427319903-oW3 .parents-7QF {
+  margin-top: 0.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-201-cM1 {
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  padding: 1.1rem 14.1rem 0.8rem 2rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 245, 245, 0.1000000015);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-201-cM1 .group-80-iuq {
+  margin-right: 1.4rem;
+  width: 2.6rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-201-cM1 .group-80-iuq .frame-211-5Eb {
+  box-sizing: border-box;
+  padding: 0.5rem 0.284rem 0.581rem 0.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-201-cM1 .group-80-iuq .frame-211-5Eb .schedule4664339-2-D5u {
+  width: 2.0155rem;
+  height: 1.5191rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-201-cM1 .schedule-Kej {
+  margin-top: 0.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-202-d9d {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.1rem 15.5rem 0.8rem 2rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 245, 245, 0.1000000015);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-202-d9d .frame-212-wRD {
+  margin-right: 1.4rem;
+  box-sizing: border-box;
+  padding: 0.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-202-d9d .frame-212-wRD .classroom1145273-2-HV5 {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-202-d9d .classes-Q3u {
+  margin-top: 0.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-203-v2F {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.1rem 6.3rem 0.8rem 2rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 245, 245, 0.1000000015);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-203-v2F .frame-213-Rzb {
+  margin-right: 1.4rem;
+  box-sizing: border-box;
+  padding: 0.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-203-v2F .frame-213-Rzb .data-science8329337-2-ymD {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-203-v2F .scientific-content-6L3 {
+  margin-top: 0.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-204-zwD {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.1rem 15.4rem 0.8rem 2rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 245, 245, 0.1000000015);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-204-zwD .group-81-isD {
+  margin-right: 1.4rem;
+  width: 2.6rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-204-zwD .group-81-isD .frame-214-UbV {
+  box-sizing: border-box;
+  padding: 0.3rem 0.311rem 0.3rem 0.4rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-204-zwD .group-81-isD .frame-214-UbV .report2912773-2-DZ5 {
+  width: 1.8889rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-204-zwD .reports-L7u {
+  margin-top: 0.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-205-ePV {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.1rem 18.7rem 0.8rem 2rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 245, 245, 0.1000000015);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-205-ePV .group-82-9b9 {
+  margin-right: 1.4rem;
+  width: 2.6rem;
+  height: 100%;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-205-ePV .group-82-9b9 .frame-215-6WP {
+  box-sizing: border-box;
+  padding: 0.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-205-ePV .group-82-9b9 .frame-215-6WP .chat589708-2-eno {
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-205-ePV .chat-Am9 {
+  margin-top: 0.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-206-tBM {
+  margin-bottom: 14.1rem;
+  box-sizing: border-box;
+  padding: 1.1rem 16rem 0.7rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(255, 245, 245, 0.1000000015);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-206-tBM .group-83-DUX {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-206-tBM .group-83-DUX .frame-216-kUT {
+  box-sizing: border-box;
+  padding: 0.3rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-206-tBM .group-83-DUX .frame-216-kUT .resolution12991590-2-uMM {
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .frame-206-tBM .tickets-RqV {
+  margin-top: 0.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .group-92-8V1 {
+  margin: 0rem 16.7rem 1.6rem 0rem;
+  width: calc(100% - 16.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .group-92-8V1 .group-89-sBh {
+  margin-right: 1.7rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .group-92-8V1 .settings-ob9 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .group-93-7rj {
+  margin-right: 18.1rem;
+  width: calc(100% - 18.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .group-93-7rj .group-88-fdM {
+  margin-right: 1.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-31qm-KEB .group-93-7rj .logout-QL3 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf {
+  width: 122rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  height: 11.5rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-zuuh-DYP {
+  margin-right: 3.4rem;
+  width: 27.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-zuuh-DYP .rectangle-25-xks {
+  width: 9.7rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-zuuh-DYP .frame-105-uAK {
+  width: 24.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 4.1rem;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-zuuh-DYP .frame-105-uAK .home-Dwh {
+  margin: 0.1rem 2.6rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #6f6f6f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-zuuh-DYP .frame-105-uAK .download-YUB {
+  margin-right: 2.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #6f6f6f;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-zuuh-DYP .frame-105-uAK .support-U6w {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-zuuh-DYP .frame-105-uAK .support-U6w .support-U6w-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #6f6f6f;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-zuuh-DYP .frame-105-uAK .support-U6w .support-U6w-sub-1 {
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-1pfy-PdD {
+  width: 91.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-1pfy-PdD .rectangle-24-vd9 {
+  width: 62.3rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 29rem;
+  top: 0;
+  background-color: #7372e0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-1pfy-PdD .f256246709l6nkjlbhk0mnw2axc2tlysvmviehezqq-1-faj {
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  left: 74.1rem;
+  top: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 8.2rem;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-1pfy-PdD .rectangle-100-MyM {
+  width: 65.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #f5f5f5;
+  border-radius: 1.3rem;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-1pfy-PdD .loupe751463-1-sgo {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-1pfy-PdD .search-for-students-teachers-documents-CUB {
+  width: 32.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 4.3rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #9ca3af;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .nav-bar-sjR .auto-group-1pfy-PdD .notification-J1R {
+  width: 2.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 69.2rem;
+  top: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf {
+  margin-left: 1.3rem;
+  width: 108.1rem;
+  height: 86.6rem;
+  position: relative;
+  background-color: #e3e3f9;
+  border-radius: 2rem;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-kg27-LD1 {
+  width: 96.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 1.7rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-kg27-LD1 .edit-teacher-rh9 {
+  margin-right: 73.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-kg27-LD1 .group-7101-Ph5 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-kg27-LD1 .group-7101-Ph5 .vuesax-linear-arrow-left-YZy {
+  margin: 0.2rem 0.6rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-kg27-LD1 .group-7101-Ph5 .back-rqZ {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy {
+  width: 80.8rem;
+  height: 20.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 64.9rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .auto-group-szgk-82P {
+  box-sizing: border-box;
+  padding-right: 17.1rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .auto-group-szgk-82P .auto-group-uhx1-TaT {
+  margin-right: 0.8rem;
+  width: 41rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .auto-group-szgk-82P .auto-group-uhx1-TaT .address-oPR {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .auto-group-szgk-82P .auto-group-uhx1-TaT .rectangle-120-8Rh {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 4.8rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 1rem;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .auto-group-szgk-82P .auto-group-uhx1-TaT .group-7113-3oZ {
+  margin: 0rem 1.8rem 0rem 1.6rem;
+  width: calc(100% - 3.4rem);
+  height: 5.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2e3192;
+  border-radius: 2rem;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .auto-group-szgk-82P .group-7102-6mq {
+  margin-top: 4.6rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: 2.1rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .group-7127-ZvK {
+  width: 16.3rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .group-7127-ZvK .image-hmd {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .group-7127-ZvK .group-7101-FHM {
+  box-sizing: border-box;
+  padding: 0.4rem 1.1rem 0.4rem 1.2rem;
+  width: 100%;
+  border: solid 0.1rem #9ca3af;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .group-7127-ZvK .group-7101-FHM .f256246709l6nkjlbhk0mnw2axc2tlysvmviehezqq-2-b6K {
+  width: 14rem;
+  height: 12rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .group-7127-ZvK .group-7124-f6B {
+  margin: 0rem 1.191rem 0rem 1.109rem;
+  width: calc(100% - 2.3rem);
+  height: 4rem;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-8acb-zRy .group-7127-ZvK .group-7124-f6B .group-7100-BqD {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2e3192;
+  border-radius: 0.8rem;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-aucb-G5y {
+  width: 99.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 24.1rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-aucb-G5y .rectangle-111-NPu {
+  margin-right: 0.8rem;
+  width: 41rem;
+  height: 4.8rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-aucb-G5y .group-7108-Hmm {
+  margin: 1.3rem 4.6rem 1.4rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-aucb-G5y .group-7114-xN7 {
+  margin-right: 0.8rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2.3rem;
+  width: 41rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #dbdbdb;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-aucb-G5y .group-7103-cSf {
+  margin: 1.2rem 0rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-szu3-ffq {
+  width: 99.5rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 32.9rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-szu3-ffq .rectangle-112-zTD {
+  margin-right: 0.8rem;
+  width: 41rem;
+  height: 4.8rem;
+  border: solid 0.1rem rgba(219, 219, 219, 0.9300000072);
+  box-sizing: border-box;
+  background-color: rgba(250, 250, 250, 0.9300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-szu3-ffq .group-7109-JD1 {
+  margin: 1.4rem 4.7rem 1.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-szu3-ffq .rectangle-115-mMV {
+  margin-right: 0.8rem;
+  width: 41rem;
+  height: 4.8rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-szu3-ffq .group-7104-gUT {
+  margin: 1.2rem 0rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-my8b-wvB {
+  width: 99.5rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 41.7rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-my8b-wvB .rectangle-113-sJ3 {
+  margin-right: 0.8rem;
+  width: 41rem;
+  height: 4.8rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-my8b-wvB .group-7110-PGP {
+  margin: 1.4rem 4.7rem 1.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-my8b-wvB .rectangle-116-FpP {
+  margin-right: 0.8rem;
+  width: 41rem;
+  height: 4.8rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-my8b-wvB .group-7105-Ne7 {
+  margin: 1.4rem 0rem 1.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-rkhm-cYT {
+  width: 99.6rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 50.5rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-rkhm-cYT .rectangle-114-w4w {
+  margin-right: 0.8rem;
+  width: 41rem;
+  height: 4.8rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-rkhm-cYT .group-7111-49Z {
+  margin: 1.4rem 4.8rem 1.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-rkhm-cYT .rectangle-117-vSf {
+  margin-right: 0.8rem;
+  width: 41rem;
+  height: 4.8rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-rkhm-cYT .group-7106-EiF {
+  margin: 1.2rem 0rem 1.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-h7dd-tXu {
+  width: 99.6rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 59.3rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-h7dd-tXu .rectangle-119-oum {
+  margin-right: 0.8rem;
+  width: 41rem;
+  height: 4.8rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-h7dd-tXu .group-7112-vjV {
+  margin: 1.4rem 4.8rem 1.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-h7dd-tXu .rectangle-118-CBD {
+  margin-right: 0.8rem;
+  width: 41rem;
+  height: 4.8rem;
+  border: solid 0.1rem #dbdbdb;
+  box-sizing: border-box;
+  background-color: #fafafa;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-h7dd-tXu .group-7107-Jzw {
+  margin: 1.4rem 0rem 1.3rem 0rem;
+  box-sizing: border-box;
+  padding: 0 1.6rem;
+  height: calc(100% - 2.7rem);
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2e3192;
+  border-radius: 1.05rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-xbhv-B39 {
+  width: 56.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 20.9rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-xbhv-B39 .user-name-VpX {
+  margin-right: 42.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-xbhv-B39 .code-cu9 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-jjlk-ZJb {
+  width: 56.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 29.7rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-jjlk-ZJb .age-6JX {
+  margin-right: 48.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-jjlk-ZJb .blood-dJT {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-g2fd-aDh {
+  width: 57.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 38.5rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-g2fd-aDh .year-WNF {
+  margin-right: 48.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-g2fd-aDh .father-qvK {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-11gf-BzB {
+  width: 57.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 47.3rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-11gf-BzB .class-qYw {
+  margin-right: 47.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-11gf-BzB .mother-yQF {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-rbqm-KU7 {
+  width: 58.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 56.1rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-rbqm-KU7 .gender-3Q7 {
+  margin-right: 45.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-rbqm-KU7 .religion-aQ3 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-k7dd-iFM {
+  width: 80.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 13rem;
+  display: flex;
+  align-items: center;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-k7dd-iFM .frame-427319907-qas {
+  margin-right: 1.7rem;
+  width: 61rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .auto-group-k7dd-iFM .group-7115-Nao {
+  width: 18.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #2e3192;
+  border-radius: 2.9rem;
+  flex-shrink: 0;
+}
+.edit-teacher--nzw .auto-group-ddty-XQf .group-7116-pEf .add-teacher-code-Esu {
+  width: 18.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 4.65rem;
+  top: 9.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
